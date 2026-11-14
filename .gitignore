@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+data/uploads/*
+!data/uploads/.gitkeep
+*.bin
+*.kv
+*.gz
